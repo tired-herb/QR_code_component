@@ -1,0 +1,44 @@
+ @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Ysabeau+Infant:wght@300&display=swap');
+
+
+body {
+    display: flex;
+    width: 99%;
+    height: 99%;
+    justify-content: center;
+    font-family: "Outfit";
+    background-color: hsl(212, 45%, 89%)
+}
+
+.container{
+    text-align:center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 17px;
+    max-width:15.7rem;
+    max-height: 25rem;
+    padding: 0.8rem;
+    margin-top: 14%;
+
+}
+
+img{
+border-radius: 10px;
+max-width: 100%
+}
+
+h1{
+    color:hsl(218, 44%, 22%);
+    max-width: 98%;
+    font-size: 20px;
+    padding: 0.3rem;
+    margin-bottom: 0rem;
+    
+}
+
+p{
+    font-size: 15px;
+    margin: 0.3rem;
+    padding-top: 0;
+    color: hsl(220, 15%, 55%);
+}
+
